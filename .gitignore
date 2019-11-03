@@ -1,3 +1,6 @@
 /*.tmp
 build/
 .gradle/
+
+# IntellIJ IDEA
+.idea/
