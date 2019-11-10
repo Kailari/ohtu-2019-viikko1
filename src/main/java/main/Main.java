@@ -12,6 +12,30 @@ public class Main {
         tulostaOlutta(olutta);
         tulostaMehutesti(mehua);
         tulostaVirhetilanteita();
+
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
+        System.out.println("Rivi");
     }
 
     private static void tulostaVirhetilanteita() {
